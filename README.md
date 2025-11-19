@@ -1,2 +1,2 @@
 # kaggle-titanic-Classification
-“Kaggle Titanic competition solution using Random Forest and XGBoost.”
+“Kaggle Titanic competition solution using Random Forest.”
