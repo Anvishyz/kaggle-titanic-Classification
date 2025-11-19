@@ -72,8 +72,7 @@ submission.csv
 ├── Titanic Classification.ipynb      
 ├── train.csv / test.csv              
 ├── submission.csv                   
-├── assets/
-│   └── kaggle_score.png              
+        └── kaggle_score.png              
 
 ## 📌 4. 环境要求（Environment Requirements）
 
