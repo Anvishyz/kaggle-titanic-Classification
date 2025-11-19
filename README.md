@@ -1,5 +1,5 @@
 # 🚢 Kaggle Titanic — Machine Learning from Disaster
-Kaggle 排名：**TOP 3,979** / $16000+ 参赛者
+Kaggle 排名：**TOP 3,979** / 16000+ 参赛者
 
 本仓库包含我在 Kaggle “Titanic: Machine Learning from Disaster” 比赛中的完整解决方案，包括数据清洗、基本特征工程、多模型比较与最终预测提交。
 
