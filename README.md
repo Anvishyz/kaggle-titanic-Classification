@@ -78,10 +78,15 @@ submission.csv
 ## 📌 4. 环境要求（Environment Requirements）
 
 python 3.8+
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
 
 ## 📌 5. 如何运行（How to Run）
@@ -98,8 +103,12 @@ scikit-learn
 
 ## 📌 6. 项目亮点（Key Highlights）
 全流程机器学习分类项目
+
 数据清洗与 Label Encoding 简洁明了
+
 使用多种模型进行对比
+
 最终排名进入 Kaggle 前 3%–4%
+
 Notebook 结构清晰，易于复现
-## ```     
+  
