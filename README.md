@@ -82,6 +82,7 @@ Titanic: Machine Learning from Disaster	**3,979 名**	150,000+
 │   └── kaggle_score.png              
 
 **📌 5. 环境要求（Environment Requirements）**
+
 python 3.8+
 pandas
 numpy
