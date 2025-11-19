@@ -1,4 +1,4 @@
-**🚢 Kaggle Titanic — Machine Learning from Disaster**
+#🚢 Kaggle Titanic — Machine Learning from Disaster
 Kaggle 排名：**TOP 3,979** / 150,000+ 参赛者
 
 本仓库包含我在 Kaggle “Titanic: Machine Learning from Disaster” 比赛中的完整解决方案，包括数据清洗、基本特征工程、多模型比较与最终预测提交。
@@ -102,10 +102,10 @@ scikit-learn
 
 上传到 Kaggle 查看分数
 
-**📌 7. 项目亮点（Key Highlights）**
-
+## 📌 7. 项目亮点（Key Highlights）
 全流程机器学习分类项目
 数据清洗与 Label Encoding 简洁明了
 使用多种模型进行对比
 最终排名进入 Kaggle 前 3%–4%
 Notebook 结构清晰，易于复现
+
