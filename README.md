@@ -7,8 +7,7 @@ Kaggle 排名：TOP 3,979 / 150,000+ 参赛者
 
 本仓库包含我在 Kaggle “Titanic: Machine Learning from Disaster” 比赛中的完整解决方案，包括数据清洗、基本特征工程、多模型比较与最终预测提交。
 
-📌 1. 项目背景（Project Background）
-
+**📌 1. 项目背景（Project Background）**
 本项目的任务是预测泰坦尼克号乘客是否获救，这是一个经典的二元分类问题。
 项目主要考察：
 
